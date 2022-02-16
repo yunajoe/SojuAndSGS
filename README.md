@@ -1,0 +1,2 @@
+# SojuAndSGS
+SGS == SamGyeopSal
